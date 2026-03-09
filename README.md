@@ -11,7 +11,7 @@ cd vila-u
 
 ### Download Models
 
-Please download our [models](https://huggingface.co/collections/mit-han-lab/vila-u-7b-6716f7dd5331e4bdf944ffa6) from HuggingFace.
+Please download the [models](https://huggingface.co/collections/mit-han-lab/vila-u-7b-6716f7dd5331e4bdf944ffa6) from HuggingFace.
 
 ```bash
 git lfs install
